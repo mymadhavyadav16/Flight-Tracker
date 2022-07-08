@@ -1,5 +1,7 @@
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mymadhavyadav16.Flight-Tracker" alt="visitors"/>
+
 # Flight-Tracker
-Tracks flights with the help of flightradar24.com
+Tracks flights with the help of flightradar24.com  
 
 ## Skills - 
 1. Lists down flights from an airport to another airport on a particular date.
